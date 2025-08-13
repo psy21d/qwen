@@ -6,7 +6,7 @@
 
 Псай кусканул высокоскоростные редимы матриц в андроид
 
-Бабка подтвердит [05.02.2025.MD](https://github.com/psy21d/qwen/blob/main/babkinoTV.md)
+[Бабка подтвердит](https://github.com/psy21d/qwen/blob/main/babkinoTV.md)
 
 ---------------------
 
